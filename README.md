@@ -28,7 +28,7 @@
 - Card layout  
 
 📸 **Output Screenshot:**  
-![Experiment 2.1 Output](./screenshots/2.1.png)
+![Experiment 2.1 Output](./2.1.png)
 
 ---
 
@@ -40,7 +40,7 @@
 - Button component  
 
 📸 **Output Screenshot:**  
-![Experiment 2.2 Output](./screenshots/2.2.png)
+![Experiment 2.2 Output](./2.2.png)
 
 ---
 
@@ -54,7 +54,7 @@
 - Button  
 
 📸 **Output Screenshot:**  
-![Experiment 2.3 Output](./screenshots/2.3.png)
+![Experiment 2.3 Output](./2.3.png)
 
 ---
 
@@ -66,7 +66,8 @@
 - Bootstrap utility classes  
 
 📸 **Output Screenshot:**  
-![Experiment 2.4 Output](./screenshots/2.4.png)
+![Experiment 2.4 Output](./2.4.png)
 
 ---
 >>>>>>> 1498b4b (Initial commit)
+
